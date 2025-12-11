@@ -1,6 +1,6 @@
-# Hi 👋, I'm Navya Kasula
-
-### A passionate developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=29&duration=3500&pause=1300&color=F7C843&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Navya+Kasula;Full+Stack+Developer">
+</p>
 
 ### 🌟 About Me
 I'm a passionate developer and tech enthusiast exploring the world of **full-stack development**, **AI/ML**, and **software engineering**. I love building projects that solve real-world problems and continuously learning new technologies.  
@@ -25,13 +25,15 @@ I'm a passionate developer and tech enthusiast exploring the world of **full-sta
 <br>
 
 <h2>🔥 Stats:</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kasulanavya&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
-<div align="left">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kasulanavya&theme=aura&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasulanavya&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-left: 20px;" />
-</div>
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kasulanavya&theme=tokyonight" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Kasulanavya&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kasulanavya&theme=tokyonight" />
+
+
+
+
+</p>
 
 <br>
 
